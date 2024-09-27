@@ -21,7 +21,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 - Dancing: ...
 
-
 ## Languages
+
 Spanish native
 English B1
